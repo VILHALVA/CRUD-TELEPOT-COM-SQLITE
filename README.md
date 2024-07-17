@@ -56,6 +56,7 @@ Este bot do Telegram implementa um sistema básico de CRUD (Create, Read, Update
 * [VEJA A DOCUMENTAÇÃO](https://telepot.readthedocs.io/en/latest/)
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
+* [CURSO DE PYTHON COM SQLITE](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE)
 * [CURSO SUGERIDO](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
